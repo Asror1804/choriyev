@@ -1,0 +1,7 @@
+D:\Asror\dars\bin\Debug\dars.exe.config
+D:\Asror\dars\bin\Debug\dars.exe
+D:\Asror\dars\bin\Debug\dars.pdb
+D:\Asror\dars\obj\Debug\dars.csproj.AssemblyReference.cache
+D:\Asror\dars\obj\Debug\dars.csproj.CoreCompileInputs.cache
+D:\Asror\dars\obj\Debug\dars.exe
+D:\Asror\dars\obj\Debug\dars.pdb
