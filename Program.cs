@@ -1,19 +1,17 @@
 ﻿
-            using System;
+
+using System;
 
 class Program
-        {
-            static void Main()
-            {
-                Console.Write("10-lik sanoq sistemasidagi sonni kiriting: ");
-                int decimalNumber = int.Parse(Console.ReadLine());
+{
+    static void Main()
+    {
+        Console.Write("10-lik sanoq sistemasidagi sonni kiriting: ");
+        int decimalNumber = int.Parse(Console.ReadLine());
 
-                // 2-lik sanoq sistemasiga o'tish
-                string binaryNumber = Convert.ToString(decimalNumber, 2);
+        // 8-lik sanoq sistemasiga o'tish
+        string octalNumber = Convert.ToString(decimalNumber, 8);
 
-                Console.WriteLine($"2-lik sanoq sistemasidagi qiymati: {binaryNumber}");
-            }
-        }
-
-
-
+        Console.WriteLine($"8-lik sanoq sistemasidagi qiymati: {octalNumber}");
+    }
+}
