@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Asror\\dars\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Uzb\\choriyev\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B3F4BDF9-1F71-4D89-864B-AB596A3E3DE9}|dars.csproj|d:\\asror\\dars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B3F4BDF9-1F71-4D89-864B-AB596A3E3DE9}|dars.csproj|c:\\users\\user\\desktop\\uzb\\choriyev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3F4BDF9-1F71-4D89-864B-AB596A3E3DE9}|dars.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,17 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Asror\\dars\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Uzb\\choriyev\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Asror\\dars\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Uzb\\choriyev\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-12T17:38:22.437Z",
               "EditorCaption": ""
